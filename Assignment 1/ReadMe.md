@@ -1,4 +1,4 @@
-# Assignment 1 - content
+# Assignment 1 - contents
 
 ## zad1
 Enter certain amount of numbers through standard input into vector until EOF is reached or we get a invalid entry (something other than a number). Print all members of the vector, then sort from smallest to largest and add all members of the vector.
