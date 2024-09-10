@@ -4,7 +4,7 @@
 Write a structure that mimics an array. Define all necessary constructors and destructors as well as operators *cout*, *[ ]* and *>*.
 
 ## zad2
-Write the Complex class and implement:
+Write the *Complex* class and implement:
  * default constructor
  * a constructor that accepts a real and an imaginary number
  * copy and move constructor
